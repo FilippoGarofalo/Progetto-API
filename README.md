@@ -1,2 +1,2 @@
 # Progetto-API
-Data structure and algorithm university project
+Data structure and algorithms university project
